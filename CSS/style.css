@@ -1,0 +1,187 @@
+ *{margin: 0;  padding: 0; box-sizing: border-box;
+font-family: 'Josefin Sans', sans-serif; }
+/* Making the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 82vh;
+  }
+.navbar{
+  transition: 0.6s;
+  background-color: greenyellow;
+}
+.nav-item
+{
+  font-size: 16px;
+  
+}
+.nav-link:hover{
+  color: rgb(250, 246, 1) !important;
+}
+.initiatives{
+border-width: 100;
+border-color: black;
+}
+  .aboutimg{
+    width: 100%;
+    height: 250px!important;
+  }
+
+.scan {
+  border-radius: 8px;
+  margin-right: auto;
+ }
+ .center-div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+.h2{
+  color: blue;
+  background-color: yellow;
+  border: 5px solid red;
+  left: 50%;
+}
+.h21{
+  color: deeppink;
+  background-color: greenyellow;
+  border: 5px solid blue;
+  left: 50%;
+}
+.sub{
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+  color: solid pink;
+  text-decoration-color: white;
+}
+.readmore{
+font-weight: bold;
+color: rgb(32, 104, 133);
+font-size: 18px;
+background-color: orchid;
+padding: 10px 20px;
+}
+.viewmore{
+font-weight: bold;
+color: rgb(32, 104, 133);
+font-size: 18px;
+background-color: peachpuff;
+padding: 10px 20px;
+border: 5px #8811c5;
+}
+.seemore{
+font-weight: bold;
+color: rgb(32, 104, 133);
+font-size: 18px;
+background-color: lightsalmon;
+padding: 10px 20px;
+border: 5px #8811c5;
+}
+.heading{
+  width: 100%;
+  line-height: 80px;
+  font-size: 1.4rem;
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+}
+.aboutushead{ 
+  color: #cc3300;
+  font-style: italic;
+}
+.about{
+    background: linear-gradient(to right, #00ffff 0%, #66ff66 100%);
+}
+.aboutquote{
+  color: orangered;
+}
+.animated1{
+-webkit-animation-duration:4s;
+animation-duration: 4s;
+}
+.services{
+background-color: rgb(199, 21, 133);
+position: relative;
+color: rgb(80, 7, 250);
+font-family: cursive;
+}
+.servorp{
+  background-color: lightgoldenrodyellow;
+}
+.servold{
+  background-color: lightgoldenrodyellow;
+}
+.servhead{
+  color: ghostwhite;
+}
+.ourgallery{
+  background: linear-gradient(to right, #ffff00 0%, #ff3300 100%);
+}
+.galimg
+{
+    border: 5px palevioletred;
+}
+.galhead{
+  color: floralwhite;
+}
+.adminloginhead{
+font-style: italic;
+}
+.eventform{
+  background-color: #ff9900;
+}
+.manageevents{
+    background: linear-gradient(to right, #66ffff 0%, #ccffcc 100%);
+}
+.eventsendmail{
+font-weight: bold;
+color: rgb(32, 104, 133);
+font-size: 18px;
+background-color: #ADFF2F;
+padding: 10px 20px;
+}
+.eventshead{
+font-style: italic;
+}
+.eventsucces{
+    background: linear-gradient(to bottom, #ff00ff 0%, #ffffff 100%);
+}
+.upcomingevents{
+background: linear-gradient(to top, #00ccff 0%, #ffff00 100%);
+}
+.uehead{
+  color: #ff0000;
+}
+.uesubhead
+{
+  color: #9900cc;
+}
+.ueshead{
+font-style: italic;
+}
+.contactus{
+    background: linear-gradient(to bottom, #ffff00 0%, #ff0000 100%);
+}
+.donate{
+      background: linear-gradient(to bottom, #cc0099 0%, #00ffcc 100%);
+}
+.jumbotron1 {
+text-align: center;
+background-image: url("images/donations.jpg");
+background-size:cover;
+background-position: center;
+padding-top:30px;
+padding-bottom: 380px;
+height: 100px;
+background-attachment: fixed;
+}
+.donatetext{
+  color: #ffff00;
+}
+.cash{
+   background: linear-gradient(to bottom left, #ff00ff 0%, #ffff00 80%);
+}
+.cashtext{
+  color: navajowhite;
+}
+.kind
+{
+      background: linear-gradient(to bottom, #ff0066 0%, #00ffff 100%);
+}
